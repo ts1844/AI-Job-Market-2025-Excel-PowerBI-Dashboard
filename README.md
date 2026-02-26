@@ -110,6 +110,14 @@ This project demonstrates:
 
 ---
 
+## 🎯 Results
+
+<img width="1201" height="664" alt="Power_BI_Dashboard" src="https://github.com/user-attachments/assets/dd725a8c-a96a-494d-aadd-404343601447" />
+<img width="1053" height="840" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/b0167715-d84e-4ff7-a3a3-6c5c7b4610b5" />
+
+
+
+
 ## 👨‍💻 Author
 
 Tamilarasan S  
